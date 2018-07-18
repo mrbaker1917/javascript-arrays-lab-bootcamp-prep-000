@@ -9,4 +9,4 @@ destructivelyAppendKitten('Ralph');
 function destructivelyPrependKitten(name) {
   kittens.unshift(name);
 }
-destructivelyPrependKitten()
+destructivelyPrependKitten('Bob');
