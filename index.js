@@ -10,3 +10,5 @@ function destructivelyPrependKitten(name) {
   kittens.unshift(name);
 }
 destructivelyPrependKitten('Bob');
+
+function 
